@@ -56,6 +56,10 @@ a:hover {
     text-decoration-color: rgb(181, 181, 181);
 }
 
+a.btn:hover {
+    text-decoration: none;
+}
+
 .logo {
     font-size: 2rem;
 }
